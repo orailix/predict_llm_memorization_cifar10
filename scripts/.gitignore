@@ -1,0 +1,5 @@
+*
+!.gitignore
+!attack.sh
+!hpc_sync.sh
+!train.sh

@@ -1,0 +1,19 @@
+# Don't store experiment configurations
+experiments/
+tmp/
+logs/
+notebooks*/
+!src/experiments/
+
+# Python
+.idea/
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Other
+*~
+.env
+debug_*
