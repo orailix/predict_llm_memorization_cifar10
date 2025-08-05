@@ -4,7 +4,7 @@ Jérémie Dentan<sup>1</sup>, Davide Buscaldi<sup>1, 2</sup>, Aymen Shabou<sup>3
 
 <sup>1</sup>LIX (École Polytechnique, IP Paris, CNRS) <sup>2</sup>LIPN (Sorbonne Paris Nord) <sup>3</sup>Crédit Agricole SA
 
-This repository contains the source code for reproducing the CIFAR-10 part of the experiments for our preprint "Predicting memorization within Large Language Models fine-tuned for classification". The main repository can be found at: [https://github.com/orailix/predict_llm_memorization](https://github.com/orailix/predict_llm_memorization).
+This repository contains the source code for reproducing the CIFAR-10 part of the experiments for our paper "Predicting memorization within Large Language Models fine-tuned for classification", published at ECAI 2025. The main repository can be found at: [https://github.com/orailix/predict_llm_memorization](https://github.com/orailix/predict_llm_memorization).
 
 ## Acknowledgement
 
@@ -19,12 +19,13 @@ At the time of publishing this source code, the repository [misleading-privacy-e
 Please cite this work as follows:
 
 ```bibtex
-@misc{dentan_predicting_2024,
-	title = {Predicting memorization within Large Language Models fine-tuned for classification},
-	url = {https://arxiv.org/abs/2409.18858},
-	author = {Dentan, Jérémie and Buscaldi, Davide and Shabou, Aymen and Vanier, Sonia},
-	month = sep,
-	year = {2024},
+@inproceedings{dentan_predicting_2025,
+  title = {Predicting Memorization within Large Language Models Fine-Tuned for Classification},
+  author = {Dentan, Jérémie and Buscaldi, Davide and Shabou, Aymen and Vanier, Sonia},
+  booktitle = {Proceedings of the 28th European Conference on Artificial Intelligence (ECAI 2025)},
+  year = {2025},
+  note = {To appear},
+  url = {https://arxiv.org/abs/2409.18858}
 }
 ```
 
